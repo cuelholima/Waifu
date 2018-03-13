@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="meusite.com.br" resolutions="1x" timestamp="1520947839409">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="meusite.com.br" resolutions="1x" timestamp="1520948990333">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="343725370" ref="index"/>
+    <file name="index.css" crc="495684013" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="swiss721bt-bolditalic.woff" crc="4176363692"/>
@@ -62,5 +62,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4105798597" seo="true" mt="1520947776872" redirect="true"/>
+  <file name="index.html" crc="391884206" seo="true" mt="1520948943185" redirect="true"/>
 </manifest>
