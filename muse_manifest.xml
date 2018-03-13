@@ -1,0 +1,66 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="meusite.com.br" resolutions="1x" timestamp="1520884694276">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="403060864" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="swiss721bt-bolditalic.woff" crc="4176363692"/>
+    <file name="tt0006m_.eot" crc="309895487"/>
+    <file name="swiss721bt-bolditalic.svg" crc="3776398868"/>
+    <file name="lg.woff" crc="4131552084"/>
+    <file name="lg.eot" crc="196672403"/>
+    <file name="lg.svg" crc="466834863"/>
+    <file name="swiss721bt-bold.woff" crc="226290322"/>
+    <file name="tt0005m_.eot" crc="4220423873"/>
+    <file name="swiss721bt-bold.svg" crc="4131104511"/>
+    <file name="swiss721bt-roman.woff" crc="470954399"/>
+    <file name="tt0003m_.eot" crc="3986499905"/>
+    <file name="swiss721bt-roman.svg" crc="382781603"/>
+    <file name="badstriped.woff" crc="4006944638"/>
+    <file name="bad striped.eot" crc="4037829766"/>
+    <file name="badstriped.svg" crc="377820297"/>
+    <file name="swiss721bt-italic.woff" crc="322027741"/>
+    <file name="tt0006m_1.eot" crc="309895487"/>
+    <file name="swiss721bt-italic.svg" crc="4042940677"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="covergirl.jpg" crc="107570355" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rias.jpg" crc="4017437392" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rem.jpg" crc="9464353" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ahri.png" crc="231551935" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg.jpg" crc="148145731" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="heart.png" crc="117585526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="math.jpg" crc="3879894065" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wel.jpg" crc="392705097" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flavio.jpg" crc="3853882439" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="461945844" seo="true" mt="1520884670252" redirect="true"/>
+</manifest>
