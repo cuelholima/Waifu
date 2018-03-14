@@ -1,7 +1,7 @@
 # Waifu Project
-> They were made by me Matheus Henrique de Faria o/
+> This website was made by Matheus Henrique de Faria
 
-- JUSTO GO AND CHECK IT OUT IN PREVIEW MODE:
+PREVIEW IT ON:
 https://cuelholima.github.io/Waifu/
 
 ## License
